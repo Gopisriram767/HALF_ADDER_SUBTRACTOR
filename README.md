@@ -59,3 +59,9 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+<img width="1920" height="1080" alt="EXP3_I clock diagram" src="https://github.com/user-attachments/assets/8dabcaae-9a2d-453a-876b-6619492e912e" />
+<img width="1920" height="1080" alt="EXP3_II clock diagram" src="https://github.com/user-attachments/assets/2b1221f2-7943-473e-934e-b8e0a6ac2d71" />
+
+<img width="1920" height="1080" alt="EXP3_I" src="https://github.com/user-attachments/assets/f3856b90-3c36-42e8-9255-6b2345956193" />
+<img width="1920" height="1080" alt="EXP3_II" src="https://github.com/user-attachments/assets/6a7fb7c6-69aa-4bdc-b85e-b627f496fb62" />
+
